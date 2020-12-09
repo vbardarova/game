@@ -55,7 +55,7 @@ def sample():
 #     st.write('succes')
 
 x=1
-if st.button('pick a question'):
+if st.button('pick a question')==1:
     question = sample()
     x=x+1
     st.write(question)
