@@ -54,13 +54,11 @@ def sample():
 # elif selection == "Common":
 #     st.write('succes')
 
-x=1
 question = []
 
 if st.button('pick a question'):
-    if question is  None: 
+    if not question: 
         question = sample()
-        x=x+1
         st.write(question)
 
     else:
