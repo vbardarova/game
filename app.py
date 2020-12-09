@@ -37,9 +37,7 @@ data = [
 def sample():
     elem = random.choice(data) 
     data.remove(elem) 
-    print(elem)
-
-sample()
+    return elem
 
 
 # # title
