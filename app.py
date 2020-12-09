@@ -57,12 +57,13 @@ def sample():
 x=1
 question = []
 
-if st.button('pick a question'): 
-    question = sample()
-    x=x+1
-    st.write(question)
+if st.button('pick a question'):
+    if question is  None: 
+        question = sample()
+        x=x+1
+        st.write(question)
 
-if question is not None:
+    else:
     st.write(question)
      
 
