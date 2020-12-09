@@ -1,7 +1,5 @@
 import streamlit as st
-import pickle as pkle
-import os.path
-from sections import pages, results, home
+
 
 
 # title
