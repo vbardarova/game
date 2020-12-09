@@ -56,12 +56,14 @@ def sample():
 
 question = []
 
+
+
 if st.button('pick a question'):
     if not question: 
         question = sample()
         st.write(question)
 
-    else:
-        st.write(question)
+else:
+    st.write(question)
      
 
