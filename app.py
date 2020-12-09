@@ -54,8 +54,10 @@ def sample():
 # elif selection == "Common":
 #     st.write('succes')
 
-if st.button('add'):
+x=1
+if st.button('pick a question'):
     question = sample()
+    x=x+1
     st.write(question)
      
 
