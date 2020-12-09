@@ -62,7 +62,7 @@ if st.button('pick a question'):
     x=x+1
     st.write(question)
 
-if question not null:
+if question is not None:
     st.write(question)
      
 
