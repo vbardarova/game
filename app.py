@@ -9,11 +9,11 @@ data = [
 'What is the strangest Christmas/New Year present you ever received?',
 'What is your favorite holiday food?',
 'Does your family practice any interesting Christmas/New Year traditions?',
-'What is your favourite winter sport?,
-'What is your favourite holiday dish?,
-'What is your favourite holiday song?,
-'What is your favourite holiday movie?,
-'What is your favourite holiday movie?
+'What is your favourite winter sport?',
+'What is your favourite holiday dish?',
+'What is your favourite holiday song?',
+'What is your favourite holiday movie?',
+'What is your favourite holiday movie?'
 ]
 
 
