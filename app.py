@@ -13,7 +13,12 @@ data = [
 'What is your favourite holiday dish?',
 'What is your favourite holiday song?',
 'What is your favourite holiday movie?',
-'What is your favourite holiday movie?'
+'What is your favourite holiday movie?',
+'If you could travel anywhere for Christmas/New Year, where would you go?',
+'What’s the most memorable thing that’s happened to you since last Christmas/New years?',
+'Would you rather build a snowman, go sledding, have a snowball fight, or stay inside drinking hot cocoa?'
+
+
 ]
 
 
